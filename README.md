@@ -3,7 +3,7 @@
 Electrical & Electronic Engineering student | C++ and Python programmer | Aspiring backend & embedded systems engineer
 
 ## 🔧 Skills
-- Programming: C++
+- Programming: C++ amd Python 
 - Electronics: DC Power Supply, Astable Multivibrator, PCB Troubleshooting
 - Tools: Cxxdroid, Multimeter, Breadboard prototyping, GitHub
 
