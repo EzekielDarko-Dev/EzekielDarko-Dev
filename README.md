@@ -1,9 +1,9 @@
-## Hi, I'm Ezekiel Owusu Darko 👋
+i## Hi, I'm Ezekiel Owusu Darko 👋
 
 Electrical & Electronic Engineering student | C++ and Python programmer | Aspiring backend & embedded systems engineer
 
 ## 🔧 Skills
-- Programming: C++ amd Python 
+- Programming: C++ and Python 
 - Electronics: DC Power Supply, Astable Multivibrator, PCB Troubleshooting
 - Tools: Cxxdroid, Multimeter, Breadboard prototyping, GitHub
 
