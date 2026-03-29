@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi, I'm Ezekiel Owusu Darko 👋
+## Hi, I'm Ezekiel Owusu Darko 👋
 
 Electrical & Electronic Engineering student | C++ programmer | Aspiring backend & embedded systems engineer
 
