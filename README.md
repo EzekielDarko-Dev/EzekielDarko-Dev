@@ -1,4 +1,4 @@
-i## Hi, I'm Ezekiel Owusu Darko 👋
+## Hi, I'm Ezekiel Owusu Darko 👋
 
 Electrical & Electronic Engineering student | C++ and Python programmer | Aspiring backend & embedded systems engineer
 
